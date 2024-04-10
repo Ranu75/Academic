@@ -17,6 +17,10 @@ The aim is to study the potential association between poverty and lung cancer in
  - the expected number $E_i$ of cases of lung cancer in men aged over 65 living in neighbourhood $i$. This is a covariate, i.e. a quantity that is assumed to be known.
  - an indicator $depriv_i$ of socio-economic insecurity for neighbourhood $i$. The higher the value of $depriv_i$, the greater the level of socio-economic insecurity in neighbourhood $i$.
 
+## Filter project
+
 ## NLP project
 
 This project was focused on an article from a newspaper. I extracted information from article and analyze them.
+
+## Resampling project
