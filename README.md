@@ -19,6 +19,8 @@ The aim is to study the potential association between poverty and lung cancer in
 
 ## Filter project
 
+Estimate the trajectory of the missile at each instant using the Kalman filter.
+
 ## NLP project
 
 This project was focused on an article from a newspaper. I extracted information from article and analyze them.
